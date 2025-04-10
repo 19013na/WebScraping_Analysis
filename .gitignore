@@ -7,3 +7,4 @@ img.html
 *.jpeg
 *.png
 .env
+task/02_comic_img.ipynb
