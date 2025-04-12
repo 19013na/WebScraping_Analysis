@@ -8,3 +8,5 @@ img.html
 *.png
 .env
 task/02_comic_img.ipynb
+task/python/*
+task/python
